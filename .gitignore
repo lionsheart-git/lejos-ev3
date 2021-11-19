@@ -15,3 +15,6 @@ gradle-app.setting
 
 # Idea
 .idea
+
+# Ignore Gradle build output directory
+build
